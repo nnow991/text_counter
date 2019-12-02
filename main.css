@@ -11,9 +11,9 @@ header{
     padding-top: 20px;
 }
 
-#input{
+#textarea{
     width:400px;
-    height: 50px;
+    height: 450px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:black;
     border:none;
