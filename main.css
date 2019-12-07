@@ -1,19 +1,27 @@
+html,body{
+    height: 100%;
+}
+
 body{
     background: linear-gradient(to right, #00aa00FF, #00AAFF6C);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
-header{
+h1 {
     font-size:30px;
     color:white;
 }
+
 .counter{
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 #textarea{
-    width:300px;
-    min-height: 450px;
+    width:330px;
+    height: 400px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:black;
     border:none;
