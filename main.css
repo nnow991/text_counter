@@ -28,8 +28,14 @@ h1 {
 }
 
 #output{
-    padding:20px;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:white;
 }
+
+.img{
+    
+        width:330px;
+        border:none;
+    }
+
